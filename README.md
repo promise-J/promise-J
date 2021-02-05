@@ -5,14 +5,30 @@
 
 I am a Software Developer,plays the piano at free time, I love reading and writing on Nature. I enjoy learning as much as I love teaching too.
 
-Skills: REACT / JS / HTML / CSS / REDUX / RUBY / RAILS
+##SKILLS
+❄️ REACT
+💎 RUBY
+🎡 RAILS
+📱 HTML
+🏧 JS
+✴️ CSS
+
+#ASK ME ABOUT
+🎡 SCIENCES
+🎹 MUSIC
+🏈 SPORTS
+🔦💡 GOSPEL
+
+#FUN FACT
+📑 SOMETIMES READING
+🏈 SPORTING
+❄️ CODING
+🚀 TRAVELLING
+
 
 - 🔭 I’m currently working on Coding nature 
 - 🌱 I’m currently learning Python and Nodejs 
-- 💬 Ask me about ['Sciences', 'Nature', 'Sports', 'Music'].forEach(hobby=> hubby) 
 - 😄 Pronouns: ['He', 'Him'] 
-- ⚡ Fun fact: ["Sometimes reading", "say sporting", "Playing the Piano"] 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/promise-J)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/promise-chiemela-788887142/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Promise Johnson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/promise_johnson1111/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Promise94353263)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/U01AR54R3KK)  
 
