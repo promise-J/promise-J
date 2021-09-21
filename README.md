@@ -6,9 +6,9 @@
 I am a Software Developer,plays the piano at free time, I love reading and writing on Nature. I enjoy learning as much as I love teaching too.
 
 ##SKILLS
-❄️ REACT
-💎 RUBY
-🎡 RAILS
+❄️ REACT & REDUX
+💎 NODEJS
+🎡 GIT
 📱 HTML
 🏧 JS
 ✴️ CSS
@@ -17,10 +17,9 @@ I am a Software Developer,plays the piano at free time, I love reading and writi
 🎡 SCIENCES
 🎹 MUSIC
 🏈 SPORTS
-🔦💡 GOSPEL
 
 #FUN FACT
-📑 SOMETIMES READING
+📑 READING
 🏈 SPORTING
 ❄️ CODING
 🚀 TRAVELLING
