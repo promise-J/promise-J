@@ -1,9 +1,9 @@
 
-### Hi there 👋, Promise Johnson
-#### Software Development and Design.
+### <h1 style="color: blue">Hi there 👋, Promise Johnson</h1>
+#### <h3>Software Development and Design.</h3>
 ![Software Development and Design.](https://cdn.pixabay.com/photo/2019/12/18/05/19/hacker-4703109_960_720.jpg)
 
-I am a Software Developer,plays the piano at free time, I love reading and writing on Nature. I enjoy learning as much as I love teaching too.
+<h6>I am a Software Developer,plays the piano at free time, I love reading and writing on Nature. I enjoy learning as much as I love teaching too.</h6>
 
 ##SKILLS
 ❄️ REACT & REDUX
@@ -19,7 +19,7 @@ I am a Software Developer,plays the piano at free time, I love reading and writi
 🏈 SPORTS
 
 #FUN FACT
-📑 <h1>CODING</h1>
+📑 CODING
 🏈 SPORTING
 ❄️ READING
 🚀 TRAVELLING
