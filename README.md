@@ -19,14 +19,14 @@ I am a Software Developer,plays the piano at free time, I love reading and writi
 🏈 SPORTS
 
 #FUN FACT
-📑 READING
+📑 <h1>CODING</h1>
 🏈 SPORTING
-❄️ CODING
+❄️ READING
 🚀 TRAVELLING
 
 
-- 🔭 I’m currently working on Coding nature 
-- 🌱 I’m currently learning Python and Nodejs 
+- 🔭 I’m working on Coding nature
+- 🌱 I’m currently learning Python (Django) and GO lang 
 - 😄 Pronouns: ['He', 'Him'] 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/promise-J)
