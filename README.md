@@ -26,7 +26,7 @@
 
 
 - 🔭 I’m working on Coding nature
-- 🌱 I’m currently learning Python (Django) and GO lang 
+- 🌱 I’m currently learning React Native and GO lang 
 - 😄 Pronouns: ['He', 'Him'] 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/promise-J)
