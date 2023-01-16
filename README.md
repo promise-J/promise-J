@@ -3,8 +3,8 @@
 
 I am Johnson Promise Chiemela, currently working as a Software Engineer at the [Varsell Nig.](). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/promise-chiemela/)](https://www.linkedin.com/in/promise-chiemela/)
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/promise-chiemela/)](https://www.linkedin.com/in/promise-chiemela/)
+[![Linkedin Badge](https://img.shields.io/badge/-Promise-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/promise-chiemela/)](https://www.linkedin.com/in/promise-chiemela/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/promise-chiemela/)](https://www.linkedin.com/in/promise-chiemela/) -->
 [![Twitter Badge](https://img.shields.io/badge/Promise94353263?style=flat-square&logo=medium&logoColor=white&link=https://twitter.com/Promise94353263/)](https://twitter.com/Promise94353263)
 [![Gmail Badge](https://img.shields.io/badge/-chiemelapromise30@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=chiemelapromise30@gmail.com)](mailto:chiemelapromise30@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/promise.johnson.940/?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/promise.johnson.940/)](https://www.facebook.com/promise.johnson.940/)
