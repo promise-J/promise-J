@@ -4,6 +4,7 @@
 I am Johnson Promise Chiemela, currently working as a Software Engineer at the [Varsell Nig.](). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/promise-chiemela/)](https://www.linkedin.com/in/promise-chiemela/)
+[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/promise-chiemela/)](https://www.linkedin.com/in/promise-chiemela/)
 [![Twitter Badge](https://img.shields.io/badge/Promise94353263?style=flat-square&logo=medium&logoColor=white&link=https://twitter.com/Promise94353263/)](https://twitter.com/Promise94353263)
 [![Gmail Badge](https://img.shields.io/badge/-chiemelapromise30@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=chiemelapromise30@gmail.com)](mailto:chiemelapromise30@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/promise.johnson.940/?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/promise.johnson.940/)](https://www.facebook.com/promise.johnson.940/)
@@ -13,6 +14,7 @@ I am Johnson Promise Chiemela, currently working as a Software Engineer at the [
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
