@@ -8,7 +8,7 @@ I am Johnson Promise Chiemela, currently working as a Software Engineer at the [
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Promise94353263)](https://twitter.com/Promise94353263/)
 [![Gmail Badge](https://img.shields.io/badge/-chiemelapromise30@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=chiemelapromise30@gmail.com)](mailto:chiemelapromise30@gmail.com)
 <!-- [![Facebook Badge](https://img.shields.io/badge/promise.johnson.940/?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/promise.johnson.940/)](https://www.facebook.com/promise.johnson.940/) -->
-[![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/promise.johnson.940/)](https://www.facebook.com/promise.johnson.940/)
+[![Facebook Badge](https://img.shields.io/badge/Promise?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/promise.johnson.940/)](https://www.facebook.com/promise.johnson.940/)
 
 
 ## ⚡ Technologies
