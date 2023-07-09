@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I am Johnson Promise Chiemela, currently working as a Software Engineer at the [Varsell Nig.](). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Johnson Promise Chiemela, currently working as a Software Engineer at the [Phreetech](). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Promise-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/promise-chiemela/)](https://www.linkedin.com/in/promise-chiemela/)
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/promise-chiemela/)](https://www.linkedin.com/in/promise-chiemela/) -->
