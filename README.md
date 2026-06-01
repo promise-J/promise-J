@@ -1,151 +1,224 @@
-<h1 align="center">Promise Johnson Chiemela</h1>
+<div align="center">
 
-<h3 align="center">
-Senior Software Engineer • Backend Systems Architect • Engineering Lead
-</h3>
+# 👋 Hi, I'm Promise Johnson Chiemela
 
-<p align="center">
-I design and build <b>high-scale backend systems, real-time infrastructures, and distributed applications</b> that power production workloads.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Backend+Systems+Architect;Engineering+Leader;Distributed+Systems+Builder;Real-Time+Infrastructure+Engineer" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=promise-J&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/promise-J?label=Followers&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/stars/promise-J?style=for-the-badge" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I build systems that continue to perform under growth, traffic spikes, and production complexity.
+
+My focus is on:
+
+⚡ High-performance backend systems
+
+🧠 Distributed architectures
+
+📡 Real-time infrastructures
+
+🔐 Authentication & authorization systems
+
+☁️ Cloud-native deployments
+
+🤖 AI-assisted engineering workflows
+
+---
+
+## 💥 Engineering Impact
+
+<table>
+<tr>
+<td align="center">
+
+### 🚀 10K+
+
+Daily Transactions
+
+</td>
+
+<td align="center">
+
+### ⚡ <300ms
+
+API Latency
+
+</td>
+
+<td align="center">
+
+### 🔄 70%
+
+Reporting Automation
+
+</td>
+
+<td align="center">
+
+### 🏗️ Multiple
+
+Production Systems
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,go,python" />
 </p>
 
-<p align="center">
-Node.js • TypeScript • Go • System Design • Microservices • Real-Time Systems
+### Backend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" />
 </p>
 
----
+### Frontend
 
-## ⚡ What I Do (In Production)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
-I don’t just build applications — I build **systems that scale under real traffic and real constraints**.
+### Databases
 
-I specialize in:
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+</p>
 
-- 🧠 Designing distributed backend architectures
-- ⚡ Building real-time systems (WebSockets, event-driven systems)
-- 🔐 Engineering secure authentication & authorization systems (JWT, RBAC, MFA)
-- 📊 Building scalable APIs handling high-volume transactional data
-- ☁️ Deploying cloud-native applications with CI/CD pipelines
-- 🤖 Using AI-assisted engineering to accelerate system delivery & debugging
+### DevOps
 
----
-
-## 📌 Engineering Impact
-
-Here’s what I’ve delivered in real production environments:
-
-- 🚀 Built systems handling **10,000+ daily transactions**
-- ⚡ Designed APIs with **sub-300ms response latency**
-- 🧩 Architected **event-driven logistics & delivery platforms**
-- 🔄 Reduced manual reporting workload by **70% through automation**
-- 🧠 Led engineering teams across fintech, SaaS, and logistics products
-- 🏗️ Built real-time communication systems using WebSockets & Socket.IO
-- 🤖 Integrated AI-driven workflows to accelerate engineering cycles
-
----
-
-## 🏢 Leadership & Experience
-
-### 🧭 CTO — Appser (2026 – Present)
-- Architecting a **multi-vendor logistics & delivery platform**
-- Designed event-driven backend systems for real-time dispatch & tracking
-- Leading engineering decisions, CI/CD design, and system scalability
-- Driving AI-augmented development workflows across the team
-
----
-
-### ⚙️ Lead Engineer — Igorithm (2025)
-- Built scalable fintech and real-time communication systems
-- Designed modular backend architecture with GraphQL + JWT + RBAC
-- Improved system performance through backend optimization strategies
-- Explored Go for concurrency-heavy backend workloads
-
----
-
-### 🧩 Full-Stack Engineer — Phreetech (2023 – 2025)
-- Built analytics systems processing **10k+ daily transactions**
-- Reduced reporting overhead by **70% through backend automation**
-- Designed APIs with sub-300ms latency in production
-- Introduced CI/CD automation and AI-assisted debugging pipelines
-
----
-
-## 🚀 Featured Projects
-
-### 🚚 Real-Time Logistics Platform
-Event-driven delivery system with:
-- WebSocket-based live tracking
-- Multi-vendor order management
-- Scalable dispatch architecture
-- Secure authentication & role-based access
-
----
-
-### 💰 Fintech & Transaction Systems
-- Secure payment flows
-- RBAC-based user systems
-- High-throughput transaction APIs
-- Optimized database performance for scale
-
----
-
-### 📡 Real-Time Communication System
-- Socket.IO-powered messaging engine
-- Private messaging & user presence tracking
-- Event-driven architecture for low latency updates
-
----
-
-## 🧠 Tech Stack
-
-**Languages**
-TypeScript • JavaScript • Go • Python
-
-**Backend**
-Node.js • NestJS • Express • GraphQL • WebSockets • Microservices
-
-**Frontend**
-React • Next.js • React Native • TailwindCSS
-
-**Databases**
-MongoDB • PostgreSQL • MySQL • Redis
-
-**DevOps**
-Docker • AWS • GitHub Actions • CI/CD • Linux • Heroku
-
-**AI Engineering**
-Claude • ChatGPT • Cursor • Copilot • CodeRabbit • Perplexity
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=promise-J&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=promise-J&theme=radical" />
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux" />
 </p>
 
 ---
 
-## 🎯 What I’m Looking For
+## 🏆 Career Highlights
 
-I’m currently open to:
+### 🧭 CTO — Appser
 
-- Senior Backend Engineer roles
-- Distributed systems & platform engineering roles
-- Architecture-heavy engineering positions
-- High-scale startup engineering teams
+* Architecting multi-vendor logistics infrastructure
+* Real-time dispatch & tracking systems
+* Engineering leadership & system scalability
+* AI-augmented development processes
+
+### ⚙️ Lead Engineer — Igorithm
+
+* Fintech infrastructure development
+* GraphQL + JWT + RBAC architecture
+* Backend performance optimization
+* Go-powered concurrent systems
+
+### 🧩 Full Stack Engineer — Phreetech
+
+* Built systems processing 10k+ transactions daily
+* Automated reporting pipelines
+* Sub-300ms production APIs
+* CI/CD implementation
 
 ---
 
-## 📫 Contact
+## 🚚 Featured Projects
 
-- Email: **chiemelapromise30@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/promise-chiemela
-- GitHub: https://github.com/promise-J
+### Real-Time Logistics Platform
+
+* Live delivery tracking
+* Event-driven architecture
+* Multi-vendor ecosystem
+* WebSocket infrastructure
+* RBAC security
+
+### 💰 Fintech Transaction Infrastructure
+
+* Secure payment processing
+* Transaction auditing
+* Scalable API architecture
+* Database optimization
+
+### 📡 Real-Time Communication Engine
+
+* Socket.IO architecture
+* Presence management
+* Low-latency messaging
+* Event-driven design
 
 ---
 
-## 🧭 Philosophy
+## 📊 GitHub Analytics
 
-> “Great engineering is not about writing code.  
-> It’s about designing systems that survive scale, failure, and time.”
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=promise-J&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=promise-J&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=promise-J&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=promise-J&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+## 🎯 Open Opportunities
+
+✔ Senior Backend Engineer
+
+✔ Distributed Systems Engineer
+
+✔ Platform Engineer
+
+✔ Engineering Leadership Roles
+
+✔ Architecture-Focused Teams
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: [chiemelapromise30@gmail.com](mailto:chiemelapromise30@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/promise-chiemela
+
+🐙 GitHub: github.com/promise-J
+
+---
+
+<div align="center">
+
+### "Great engineering isn't writing code.
+
+### It's designing systems that survive scale, failure, and time."
+
+</div>
